@@ -1,0 +1,75 @@
+Index=481648292 Timestamp=1540879731885 (2018-10-30 02:08:51.885 -0400 EDT) pre-certificate from issuer with keyhash 84e175ba988efb17af9c3110d77837698dccdd4a9ae3844de6b565c2f536582f:
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 8427708683985767581356188973443736813 (0x6571e1e6c15d1662b6a28634b5a64ed)
+    Signature Algorithm: SHA256-RSA
+        Issuer: C=US, O=cPanel, Inc., L=Houston, ST=TX, CN=cPanel, Inc. Certification Authority
+        Validity:
+            Not Before: 2018-10-30 00:00:00 +0000 UTC
+            Not After : 2019-01-28 23:59:59 +0000 UTC
+        Subject: CN=newsonmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public Key: (2048 bit)
+                Modulus:
+                    d2:ab:23:fb:34:77:ee:3d:d1:61:ee:7d:fa:8f:54:
+                    d4:da:c7:07:a6:f7:dc:9f:9a:1e:3d:d0:6c:0d:72:
+                    24:eb:6c:ad:15:df:50:eb:b9:a2:e5:61:7d:1d:1c:
+                    e5:7a:8c:8c:08:53:08:01:98:96:08:90:41:25:76:
+                    d2:fc:53:60:f4:33:c2:50:cf:d2:dc:fd:e9:4a:f8:
+                    69:c1:79:26:35:db:8d:8d:83:91:ac:b6:04:38:ca:
+                    83:ff:87:1a:2d:c7:ad:bd:72:b9:87:da:43:c8:ce:
+                    a7:d1:02:f3:9f:70:5d:4b:4f:97:e6:88:31:b4:59:
+                    b5:37:85:f9:a8:94:47:10:eb:e4:b9:d8:df:83:65:
+                    9c:6a:c7:8d:16:aa:fc:fd:4e:48:b0:26:61:83:5f:
+                    9c:ad:7f:96:4c:5d:cf:d5:8b:4d:db:e3:fe:57:56:
+                    fc:a0:4e:11:cc:e2:2c:e4:ed:30:a1:78:ca:47:50:
+                    ee:22:bf:4b:8e:aa:e7:04:72:bf:62:03:ef:2f:b2:
+                    44:f3:ad:c3:2e:9a:66:1c:37:26:58:52:e3:48:a2:
+                    aa:31:53:da:5f:d9:c8:ae:1c:c5:5b:c1:4a:ea:06:
+                    cb:42:0b:e1:9e:dc:6a:78:2b:30:eb:03:4c:c6:f6:
+                    23:90:59:2b:ac:58:31:2a:8c:30:86:14:97:7c:b3:
+                    dd:
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Authority Key Identifier:
+                keyid:7e035a65416ba77e0ae1b89d08ea1d8e1d6ac765
+            X509v3 Subject Key Identifier:
+                keyid:7fcdd9452a4a6347511334f213327cf459cde9f2
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage:
+                TLS Web server authentication, TLS Web client authentication
+            X509v3 Basic Constraints: critical
+                CA:false
+            X509v3 Subject Alternative Name:
+                DNS:newsonmail.com, DNS:autodiscover.newsonmail.com, DNS:cpanel.newsonmail.com, DNS:mail.newsonmail.com, DNS:newsonmail.hpdcustomers.com, DNS:webdisk.news:wqonmail.com, DNS:webmail.newsonmail.com, DNS:www.newsonmail.com, DNS:www.newsonmail.hpdcustomers.com
+            X509v3 Certificate Policies:
+                Policy: 1.3.6.1.4.1.6449.1.2.2.52
+                Policy: 2.23.140.1.2.1
+            X509v3 CRL Distribution Points:
+                Full Name:
+                    URI:http://crl.comodoca.com/cPanelIncCertificationAuthority.crl
+            Authority Information Access:
+                CA Issuers - URI:http://crt.comodoca.com/cPanelIncCertificationAuthority.crt
+                OCSP - URI:http://ocsp.comodoca.com
+            RFC6962 Pre-Certificate Poison: critical
+                .....
+    Signature Algorithm: SHA256-RSA
+         56:35:34:23:39:b6:35:9d:57:05:6c:ac:12:2c:f1:2f:ec:71:
+         d7:68:b9:0f:9b:1f:30:c4:7e:b2:07:54:0e:81:c6:d7:7a:4c:
+         32:04:67:d5:f6:95:26:5d:e3:a6:e3:c3:db:5a:d7:c3:a7:db:
+         70:25:9f:59:b8:96:28:ae:56:d0:23:2a:22:df:87:c7:7a:d7:
+         eb:c2:ac:5b:4e:d1:2b:63:2a:05:70:a2:37:f0:d6:28:55:5e:
+         c4:34:0a:ce:06:fd:f9:d7:e9:85:33:d2:b9:60:f0:81:0c:10:
+         63:b3:0f:22:a1:e5:3b:9c:e3:05:a5:3a:04:e4:69:3b:ed:da:
+         b8:c5:d0:db:13:86:86:99:e0:f6:12:c9:e3:47:b2:1e:7d:11:
+         0a:b7:58:95:5d:35:d9:b4:26:42:bb:1a:f3:6a:b4:fc:54:20:
+         28:5e:80:10:58:ee:95:dc:6a:f5:57:9c:93:b3:6f:b9:79:e3:
+         4a:35:64:f7:b0:dc:cb:d0:0c:6c:6f:f7:0b:a2:f1:28:9d:13:
+         24:7d:d2:c1:57:da:bd:5a:3f:fc:78:a2:7b:b1:72:b5:01:11:
+         6d:d4:12:20:93:3d:db:8f:44:e4:88:29:e3:a2:60:50:44:fe:
+         f6:5c:08:31:e1:1e:ff:0d:04:74:92:36:7c:f5:78:ca:da:40:
+         95:c3:93:2d:
+
